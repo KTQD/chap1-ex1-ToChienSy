@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main():
+int main()
 {
-    printf("National Economics University")
+    printf("National Economics University");
     return 0;
 }
